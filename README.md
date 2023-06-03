@@ -5,7 +5,7 @@ https://mvc-tech-blog.herokuapp.com/
 
 ### Application Screenshot
 
-![](images/mvc-tech-blog.png)
+![](images/mvc-tech-blog-2.png)
   
 ### User Story
 
